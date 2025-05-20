@@ -1,4 +1,3 @@
-use readme_image.png
 # SmolVLM2 MLX Demo
 
 ![SmolVLM2 Demo](readme_image.png)
